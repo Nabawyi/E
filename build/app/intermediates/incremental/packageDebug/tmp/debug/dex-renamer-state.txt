@@ -1,0 +1,4 @@
+#Thu Sep 28 23:21:48 GST 2023
+base.0=D\:\\Todo list couse\\Ecommerce app\\ecommerceapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
